@@ -1,2 +1,3 @@
 This is 1st sentence in file1.txt from local
-This is 1st sentence in file1.txt from Github
+This is 2nd sentence in file1.txt from Github
+This is 3rd sentence in file1.txt from Github
